@@ -1,0 +1,104 @@
+text,sentiment,sentiment_label
+"This product is absolutely amazing! Best purchase ever!",2,positive
+"Terrible quality. Very disappointed with this product.",0,negative
+"It's okay. Nothing special but does the job.",1,neutral
+"Love it! Exceeded all my expectations!",2,positive
+"Waste of money. Would not recommend to anyone.",0,negative
+"The product works fine. No complaints.",1,neutral
+"Incredible! This changed my life for the better!",2,positive
+"Poor customer service and low quality product.",0,negative
+"Decent product. Average quality for the price.",1,neutral
+"Outstanding! Worth every penny!",2,positive
+"Horrible experience. Product broke after one week.",0,negative
+"It's acceptable. Met my basic expectations.",1,neutral
+"Fantastic quality! Will definitely buy again!",2,positive
+"Very disappointing. Not what I expected at all.",0,negative
+"Fair product. Gets the job done.",1,neutral
+"Excellent! Highly recommend to everyone!",2,positive
+"Awful. Requesting a refund immediately.",0,negative
+"Standard quality. Nothing to complain about.",1,neutral
+"Superb craftsmanship! Absolutely perfect!",2,positive
+"Complete disaster. Total waste of time and money.",0,negative
+"Satisfactory. Could be better but it works.",1,neutral
+"Best thing I've ever bought! Five stars!",2,positive
+"Defective product. Very poor quality control.",0,negative
+"Moderate quality. Acceptable for daily use.",1,neutral
+"Phenomenal! Can't imagine life without it!",2,positive
+"Broken on arrival. Terrible packaging.",0,negative
+"Average performance. Nothing remarkable.",1,neutral
+"Brilliant design! Exactly what I needed!",2,positive
+"Worst purchase ever. Completely unusable.",0,negative
+"Okay for the price. You get what you pay for.",1,neutral
+"Wonderful product! Exceeded expectations!",2,positive
+"Very bad quality. Falling apart already.",0,negative
+"Reasonable quality. Does what it's supposed to.",1,neutral
+"Perfect! No complaints whatsoever!",2,positive
+"Terrible build quality. Not durable at all.",0,negative
+"Adequate. Serves its purpose.",1,neutral
+"Amazing value! Would buy again!",2,positive
+"Disappointing performance. Not worth the money.",0,negative
+"Normal quality. As expected.",1,neutral
+"Exceptional! Best in class!",2,positive
+"Useless product. Complete waste.",0,negative
+"Mediocre. Could be improved.",1,neutral
+"Loving every moment! Great purchase!",2,positive
+"Horrible. Returned immediately.",0,negative
+"It's fine. No major issues.",1,neutral
+"Spectacular! Highly satisfied!",2,positive
+"Very poor. Not recommended.",0,negative
+"Passable quality. Basic functionality works.",1,neutral
+"Incredible value! Best decision ever!",2,positive
+"Defective and cheaply made.",0,negative
+"Standard product. Nothing special.",1,neutral
+"Absolutely delighted! Perfect fit!",2,positive
+"Terrible experience. Customer service was unhelpful.",0,negative
+"It's alright. Does the minimum.",1,neutral
+"Outstanding quality! Premium feel!",2,positive
+"Worst investment. Regret buying it.",0,negative
+"Fair enough. Meets basic needs.",1,neutral
+"Marvelous! Couldn't be happier!",2,positive
+"Broken and unusable. Very upset.",0,negative
+"Decent enough. No strong opinions.",1,neutral
+"Sublime! Absolutely worth it!",2,positive
+"Appalling quality. Very disappointed.",0,negative
+"Ordinary product. Nothing exciting.",1,neutral
+"Magnificent! Exceeds all standards!",2,positive
+"Terrible value for money. Overpriced.",0,negative
+"Satisfactory performance. Average quality.",1,neutral
+"Splendid! Exactly as described!",2,positive
+"Poor construction. Fell apart quickly.",0,negative
+"Acceptable. No surprises.",1,neutral
+"Divine! Best purchase this year!",2,positive
+"Awful quality. Not as advertised.",0,negative
+"Moderate satisfaction. It's okay.",1,neutral
+"Glorious! Fantastic in every way!",2,positive
+"Horrible materials. Very flimsy.",0,negative
+"Neutral opinion. Works as intended.",1,neutral
+"Excellent craftsmanship! Superior quality!",2,positive
+"Terrible finish. Looks cheap.",0,negative
+"Average product. Typical quality.",1,neutral
+"Wonderful experience! Very pleased!",2,positive
+"Disappointing durability. Broke easily.",0,negative
+"Fair quality. Standard performance.",1,neutral
+"Perfect in every aspect! Love it!",2,positive
+"Very poor design. Uncomfortable to use.",0,negative
+"Okay quality. No complaints.",1,neutral
+"Breathtaking! Absolutely stunning!",2,positive
+"Terrible functionality. Doesn't work properly.",0,negative
+"Adequate for basic use. Nothing more.",1,neutral
+"Superb engineering! Well designed!",2,positive
+"Horrible smell. Cheap materials.",0,negative
+"Regular quality. As expected.",1,neutral
+"Fantastic! Would recommend highly!",2,positive
+"Very bad. Not worth the hassle.",0,negative
+"Passable. Gets the job done.",1,neutral
+"Impressive! Top-notch quality!",2,positive
+"Awful design. Very inconvenient.",0,negative
+"Standard. Nothing to write home about.",1,neutral
+"Extraordinary! Simply the best!",2,positive
+"Terrible packaging. Arrived damaged.",0,negative
+"Fair product. Average quality.",1,neutral
+"Brilliant! Exactly what I wanted!",2,positive
+"Poor performance. Doesn't meet expectations.",0,negative
+"Decent. No major flaws.",1,neutral
+"Remarkable! Outstanding in every way!",2,positive
